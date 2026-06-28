@@ -30,10 +30,7 @@ Software Developer • Telecom Systems • API Integrations • Payment Systems
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MROMER444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MROMER444&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MROMER444&layout=compact&theme=tokyonight&hide_border=true&hide=python,html,css,scss&langs_count=6&count_private=true" />
 
 ---
 
