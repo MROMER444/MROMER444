@@ -7,20 +7,18 @@
 <h1 align="center">Hi 👋, I'm Omer Raad</h1>
 
 <h3 align="center">
-Backend Software Engineer • Telecom Solutions • API Integrations
+Software Developer • Telecom Solutions • API Integrations
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Backend Software Engineer at **Trendy Technologies**
-- 📱 Working on **Direct Carrier Billing (DCB)** and **Mobile Payment Systems**
-- 🌍 Integrated telecom services with **Ooredoo Algeria**
-- 📡 Experienced with **SMPP**, **Huawei OCS/BSS**, and **Value-Added Services (VAS)**
-- ⚡ Building scalable REST APIs using **Node.js**, **Express.js**, and **.NET**
+- 💼 Software developer
+- 📱 Contributed to payment system features and telecom billing integrations
+- 📡 Experienced with **SMPP**, and **Value-Added Services (VAS)**
+- ⚡ Building scalable REST APIs using **Node.js**, **Express.js**
 - 🗄️ Working with **MySQL**, **PostgreSQL**, and **Prisma ORM**
-- 📱 Currently learning **React Native**
 - 🚀 Passionate about backend architecture, distributed systems, and clean code
 
 ---
