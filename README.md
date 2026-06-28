@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1E3A8A,100:2563EB&text=Omer%20Raad&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Backend%20Software%20Engineer&descAlignY=70)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/i.svg?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Omer+Raad;Backend+Software+Engineer;Node.js+%7C+Express.js+%7C+MySQL;Telecom+%26+Billing+Systems;API+Integration+Specialist;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Omer+Raad;Backend+Software+Engineer;Node.js+%7C+Express.js+%7C+MySQL;Telecom+%26+Billing+Systems;API+Integration+Specialist;Always+Learning" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
@@ -46,7 +46,6 @@ Backend Software Engineer • Telecom Systems • API Integrations • Payment S
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MROMER444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MROMER444&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -63,15 +62,13 @@ Backend Software Engineer • Telecom Systems • API Integrations • Payment S
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/mromer444">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:omerraad444@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/mromer444">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;
+  <a href="mailto:omerraad444@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
 </p>
 
 ---
