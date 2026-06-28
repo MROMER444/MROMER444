@@ -63,13 +63,6 @@ Backend Software Engineer • Telecom Solutions • API Integrations
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MROMER444&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
