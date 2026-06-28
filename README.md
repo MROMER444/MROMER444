@@ -1,22 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1E3A8A,100:2563EB&text=Omer%20Raad&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1E3A8A,100:2563EB&text=Omer%20Raad&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Backend%20Software%20Engineer&descAlignY=70)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?width=900&lines=Hi+👋+I'm+Omer+Raad;Software+Developer;Node.js+%7C+Express.js+%7C+MySQL+%7C+PostgreSQL;Telecom+%26+Billing+Systems;API+Integration+Specialist;Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?width=900&lines=Hi+👋+I'm+Omer+Raad;Backend+Software+Engineer;Node.js+%7C+Express.js+%7C+MySQL+%7C+PostgreSQL;Telecom+%26+Billing+Systems;API+Integration+Specialist;Always+Learning" />
 </p>
 
 <h3 align="center">
-Software Developer • Telecom Solutions • API Integrations
+Backend Software Engineer • Telecom Systems • API Integrations • Payment Systems
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Software developer
+- 💼 Backend Software Engineer specializing in scalable API development
 - 📱 Contributed to payment system features and telecom billing integrations
-- 📡 Experienced with **SMPP**, and **Value-Added Services (VAS)**
+- 📡 Experienced with **SMPP**, **VAS (Value-Added Services)**, and telecom platforms
 - ⚡ Building scalable REST APIs using **Node.js**, **Express.js**
 - 🗄️ Working with **MySQL**, **PostgreSQL**, and **Prisma ORM**
+- 💳 Experience in digital payment and billing system integrations
 - 🚀 Passionate about backend architecture, distributed systems, and clean code
 
 ---
@@ -33,11 +34,11 @@ Software Developer • Telecom Solutions • API Integrations
 
 - 💈 **Salon Booking Platform**
 - 📱 **Glow Mobile App**
-- 💳 **Direct Carrier Billing (DCB) Integrations**
+- 💳 **Payment & Billing System Integrations**
 - 📡 **SMPP Gateway Integrations**
 - 🌍 **Ooredoo Algeria Telecom APIs**
-- ⚙️ **Backend REST APIs**
-- 📊 **Telecom Data Analysis & Reporting**
+- ⚙️ **RESTful Backend API Systems**
+- 📊 **Telecom Data Analysis & Reporting Systems**
 
 ---
 
@@ -59,10 +60,9 @@ Software Developer • Telecom Solutions • API Integrations
 
 ---
 
-
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/mromer444">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
@@ -78,13 +78,10 @@ Software Developer • Telecom Solutions • API Integrations
 
 ## 💡 Areas of Expertise
 
-- Backend Development
-- RESTful API Design
-- Direct Carrier Billing (DCB)
-- SMPP Integration
-- Telecom VAS Platforms
-- Database Design
-- System Integration
-- Payment Gateway Integration
-
----
+- Backend Development (Node.js & Express.js)
+- RESTful API Design & Architecture
+- Telecom Systems (SMPP, VAS Platforms)
+- Payment & Billing System Integrations
+- Database Design (MySQL, PostgreSQL)
+- System Integration & Data Flow Engineering
+- Performance Optimization & Scalable Systems
