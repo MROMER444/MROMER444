@@ -28,7 +28,7 @@ Backend Software Engineer • Telecom Solutions • API Integrations
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,cs,dotnet,react,mysql,postgres,prisma,git,docker,linux,postman,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,mysql,postgres,prisma,git,linux,postman,vscode,github" />
 </p>
 
 ---
