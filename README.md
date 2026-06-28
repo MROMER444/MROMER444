@@ -12,13 +12,12 @@ Software Developer • Telecom Systems • API Integrations • Payment Systems
 
 ## 👨‍💻 About Me
 
-- 💼 Backend Software Engineer specializing in scalable API development
+- 💼 Software Developer specializing in scalable API development
 - 📱 Contributed to payment system features and telecom billing integrations
-- 📡 Experienced with **SMPP**, **VAS (Value-Added Services)**, and telecom platforms
+- 📡 Experienced with **SMPP**, **VAS (Value-Added Services)** , **DCB**, and telecom platforms
 - ⚡ Building scalable REST APIs using **Node.js**, **Express.js**
 - 🗄️ Working with **MySQL**, **PostgreSQL**, and **Prisma ORM**
 - 💳 Experience in digital payment and billing system integrations
-- 🚀 Passionate about backend architecture, distributed systems, and clean code
 
 ---
 
@@ -28,19 +27,6 @@ Software Developer • Telecom Systems • API Integrations • Payment Systems
   <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,mysql,postgres,prisma,git,linux,postman,vscode,github" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-- 💈 **Salon Booking Platform**
-- 📱 **Glow Mobile App**
-- 💳 **Payment & Billing System Integrations**
-- 📡 **SMPP Gateway Integrations**
-- 🌍 **Ooredoo Algeria Telecom APIs**
-- ⚙️ **RESTful Backend API Systems**
-- 📊 **Telecom Data Analysis & Reporting Systems**
-
----
 
 ## 📊 GitHub Statistics
 
