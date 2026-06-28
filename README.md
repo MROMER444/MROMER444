@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1E3A8A,100:2563EB&text=Omer%20Raad&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20&descAlignY=70)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Omer+Raad;Backend+Software+Developer;Node.js+%7C+;Telecom+%26+Direct+Carrier+Billing+Specialist;Always+Learning+New+Technologies" />
+width=900&lines=Hi+👋+I'm+Omer+Raad;Software+Developer;Node.js+%7C+Express.js+%7C+MySQL+%7C+PostgreSQL;Telecom+%26+Billing+Systems+Specialist;Always+Learning+
 </p>
 
 <h3 align="center">
