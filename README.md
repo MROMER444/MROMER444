@@ -75,11 +75,11 @@ Backend Software Engineer • Telecom Solutions • API Integrations
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/mromer444">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:omerraad444@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
@@ -93,15 +93,9 @@ Backend Software Engineer • Telecom Solutions • API Integrations
 - RESTful API Design
 - Direct Carrier Billing (DCB)
 - SMPP Integration
-- Huawei OCS/BSS
 - Telecom VAS Platforms
 - Database Design
-- Linux Server Administration
 - System Integration
-- Performance Optimization
+- Payment Gateway Integration
 
 ---
-
-<p align="center">
-  <i>"Building reliable backend systems that power scalable telecom solutions."</i>
-</p>
