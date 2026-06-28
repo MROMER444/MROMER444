@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Omer+Raad;Backend+Software+Engineer;Node.js+%7C+.NET+Developer;Telecom+%26+Direct+Carrier+Billing+Specialist;Always+Learning+New+Technologies" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Omer Raad</h1>
-
 <h3 align="center">
 Software Developer • Telecom Solutions • API Integrations
 </h3>
